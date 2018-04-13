@@ -1,0 +1,84 @@
+body {
+  background-image: url("../images/background1.png");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  padding: 10px;
+  margin: auto;
+  background-color: lightblue;
+  border: solid black;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 25px;
+}
+
+img {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.btn {
+  padding: 0px;
+  margin: 0px;
+  opacity: 0.5;
+}
+
+#description {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: lightcyan;
+  border: solid black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 25px;
+}
+
+#randomnumber {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: lightblue;
+  border: solid black;
+  text-align: center;
+  font-size: 27px;
+  border-radius: 25px;
+}
+
+#winslosses {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: lightcyan;
+  border: solid black;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 25px;
+}
+
+#crystalbuttons {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: white;
+  border: solid black;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 25px;
+}
+
+#totalscore {
+  padding: 10px;
+  margin-top: 10px;
+  background-color: cyan;
+  border: solid black;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 25px;
+}
+
+.crystal-image {
+  width: 400px;
+  height: 300px;
+}
